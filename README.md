@@ -1,4 +1,4 @@
-# Deno
+# Deno And TypeScript
 
 Basic Rest API created using DINO and TYPESCRIPT
 
